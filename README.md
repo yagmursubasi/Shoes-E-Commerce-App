@@ -1,21 +1,23 @@
-# Kicks - Sneaker E-Commerce Application  
-In this project, I developed a modern **sneaker e-commerce platform** designed to deliver a seamless experience for both users and admins. The goal was to create an environment where users can easily browse, filter, and purchase sneakers, while admins can efficiently manage products.  
+# 🏀 Kicks - Sneaker E-Commerce Application  
+In this project, I designed a modern **sneaker e-commerce platform**.  
+The platform allows users to view and explore products, while admins can manage product details easily.  
 
 ✨ Tech Stack:  
-- **React 19** – built with the latest React version  
-- **React Router DOM** – for page routing and navigation  
-- **TanStack Query** – for powerful data fetching and caching  
-- **Axios** – to simplify API requests  
-- **TailwindCSS** – for a modern, responsive UI  
+- **React 19** – latest version of React  
+- **React Router DOM** – for page navigation  
+- **TanStack Query** – for data fetching and state management  
+- **Axios** – for API requests  
+- **TailwindCSS** – for responsive UI design  
 
 🛠 Features:  
-- **Admin Panel** for adding, editing, and deleting products  
-- **Discount Management**: ability to set discounts for specific products  
-- **Dynamic User Experience**: browse, filter, and view product details  
-- **Purchase Flow**: add products to cart and proceed with checkout  
-- **Responsive Design**: works seamlessly on mobile, tablet, and desktop  
-- **Modern UI/UX**: clean, fast, and user-friendly  
+- **Admin Panel** to add, edit, and delete products  
+- **Discount Management**: assign discount percentages to products  
+- **Product Listing**: display products on the homepage and recommendations  
+- **Product Detail Page**: view product information, colors, and sizes  
+- **Responsive Design**: compatible with mobile, tablet, and desktop  
 
-This project helped me simulate the core flow of a real e-commerce system while strengthening my **front-end development skills**, **state management expertise**, and **user experience design capabilities**.  
+With this project, I focused on building the **UI and management side of an e-commerce system**, improving my **front-end development skills** and design capabilities.  
+
+
 
   

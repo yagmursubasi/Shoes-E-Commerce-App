@@ -1,4 +1,4 @@
-# 🏀 Kicks - Sneaker E-Commerce Application  
+# Kicks - Shoes E-Commerce Application  
 In this project, I designed a modern **sneaker e-commerce platform**.  
 The platform allows users to view and explore products, while admins can manage product details easily.  
 
@@ -18,6 +18,9 @@ The platform allows users to view and explore products, while admins can manage 
 
 With this project, I focused on building the **UI and management side of an e-commerce system**, improving my **front-end development skills** and design capabilities.  
 
+# Demo
 
 
-  
+  ![ShoesApp](https://github.com/user-attachments/assets/da3e37e6-1e82-4425-8685-0be9e3f798b6)
+
+
